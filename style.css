@@ -1,0 +1,20 @@
+/* # for id and . for class */
+#heading {
+    color: red;
+    font-size: medium;
+}
+#heading2 {
+    color: gray;
+    font-size: large;
+}
+.hero{
+    color: rgb(158, 17, 114);
+    background-color: white;
+
+}
+body {
+    background-color: aqua;
+}
+button{
+    background-color: skyblue;
+}
